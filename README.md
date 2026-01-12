@@ -20,6 +20,17 @@ Hospital leadership need to understand which diagnoses and treatment types drive
 
 ---
 
+
+## 🛠 Tools & Technologies
+
+* **Tableau** – Dashboard design & interactive data visualization
+* **Calculated Fields** – Custom healthcare KPIs
+* **Data Modeling & Aggregation** – Outcome- and cost-based analysis
+
+  
+---
+
+
 ## 📊 Dashboard Steps
 
 ### 1️⃣ Executive Overview Dashboard
@@ -72,18 +83,9 @@ Hospital leadership need to understand which diagnoses and treatment types drive
 * Total treatment cost by season
 * Diagnosis seasonality heatmap
 
-
 ---
 
-## 🛠 Tools & Technologies
-
-* **Tableau** – Dashboard design & interactive data visualization
-* **Calculated Fields** – Custom healthcare KPIs
-* **Data Modeling & Aggregation** – Outcome- and cost-based analysis
-
----
-
-## 💡 Key Insights
+## 🎯 Key Insights
 
 - Overall recovery rate remains moderate (~25%), indicating significant opportunity to improve treatment effectiveness without proportionally increasing cost.
 
