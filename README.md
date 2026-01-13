@@ -45,7 +45,6 @@ The goal of this project is to analyze patient outcomes, treatment effectiveness
 * Average Treatment Cost
 * Recovery Rate
 
-
 ---
 
 ### 2️⃣ Diagnosis & Disease Burden Dashboard
