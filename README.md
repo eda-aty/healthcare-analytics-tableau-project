@@ -1,22 +1,22 @@
 # healthcare-analytics-tableau-project
 # 🏥 Healthcare Analytics – Treatment Effectiveness & Cost Efficiency
 
-## 📌 Project Overview
+## 📌 Business Problem
 
-This project analyzes patient outcomes, treatment effectiveness, healthcare costs, and seasonal demand patterns using interactive **Tableau dashboards**. The goal is to support hospital leadership and clinical teams in identifying **high-value treatments**, understanding **cost drivers**, and improving **patient recovery outcomes** through data-driven insights.
+Healthcare providers face increasing pressure to balance patient outcomes with rising treatment costs, while also ensuring adequate staffing during high-demand periods. Hospital leadership needs clear, data-driven insights to understand:
 
-The analysis focuses on answering key strategic questions such as:
+Which treatments deliver the best recovery outcomes?
 
-* Which treatments deliver the best recovery outcomes relative to their cost?
-* Which diagnoses drive the highest patient volume and treatment cost?
-* Does higher treatment cost translate into better patient outcomes?
-* How do patient demand and healthcare costs change seasonally?
+Which diagnoses generate the highest costs?
 
----
+When patient demand peaks throughout the year?
 
-## 🎯 Business Problem
+Where operational efficiencies can be improved?
 
-Hospital leadership need to understand which diagnoses and treatment types drive patient volume, healthcare costs, and recovery outcomes in order to improve treatment efficiency and allocate resources more effectively.
+## 🎯Objective
+
+The goal of this project is to analyze patient outcomes, treatment effectiveness, healthcare costs, and seasonal demand patterns using interactive Tableau dashboards, support hospital leadership and clinical teams in identifying **high-value treatments**, understanding **cost drivers**, and improving **patient recovery outcomes** through data-driven insights.
+
 
 ---
 
@@ -106,6 +106,19 @@ Hospital leadership need to understand which diagnoses and treatment types drive
 - Seasonal diagnosis patterns suggest that conditions such as Flu, Asthma, and Hypertension exhibit clear seasonal spikes, supporting proactive capacity and resource planning.
 
 ---
+🔹🔹 Recommendations 🔹🔹
+
+- Expand rehabilitation and monitoring services, as they deliver the highest recovery rates at the lowest cost, and renegotiate insurance contracts to better reflect their value.
+
+- Redesign care models for heart disease, focusing on cost reduction through preventive care, remote monitoring, and alternative treatment approaches.
+
+- Adjust staffing and capacity planning to align with peak patient demand especially in January, July, and August.
+
+- Investigate low success rates in heart disease, diabetes, and flu treatments through closer collaboration with clinical and technical teams.
+
+- Set targeted recovery improvement initiatives to raise the overall recovery rate (24.6%) using staff and patient feedback.
+
+- You can plan preventive care programs for patients aged 65+ to manage costs while maintaining care quality.
 
 ## 📈 What I've learned with this Tableau project?
 
