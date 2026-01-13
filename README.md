@@ -33,7 +33,7 @@ The goal of this project is to analyze patient outcomes, treatment effectiveness
 
 ## 📊 Dashboard and Dashbord Steps
 
-- Dashboard link: https://public.tableau.com/views/HealtcareTableauProject/ExecutiveOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- This projects Tableau Dashboard Link: https://public.tableau.com/views/HealtcareTableauProject/ExecutiveOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ### 1️⃣ Executive Overview Dashboard
 
